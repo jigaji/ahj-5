@@ -12,3 +12,6 @@ Popovers
 Описание
 Вот так должен выглядеть виджет в целом, для упрощения будем считать, что виджет всегда должен показываться сверху.
 У popover'а обязательно должно быть название и текст. Центрироваться он обязательно должен по горизонтали относительно элемента, который вызвал popover'а.
+
+
+[![Build status](https://ci.appveyor.com/api/projects/status/g87o7412wb6xcu1p/branch/master?svg=true)](https://ci.appveyor.com/project/jigaji/ahj-5/branch/master)
